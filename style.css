@@ -1,0 +1,46 @@
+
+.loginform{
+  width: 400px;
+  height: 500px;
+  background-image: url("loginback.jpg");
+  margin: 0 auto;
+  margin-top: 80px;
+ 
+}
+.ap{
+  width: 400px;
+  height: 538px;
+  padding:48px;
+  background: rgba(0, 0, 0, 0.5);
+   position: absolute;
+color: #f1f1f1;
+width: 100%;
+width: 400px;
+  height: 538px;
+}
+h3{
+  margin-top: 24px;
+margin-bottom:48px;
+  }
+  input{
+    margin-top: 40px;
+    width:304px;
+    outline: 0;
+box-shadow: none;
+border: none;
+    border-bottom-width: medium;
+    border-bottom-style: none;
+    border-bottom-color: currentcolor;
+border-bottom: 1px solid #ced4da;
+border-radius: 0;
+box-sizing: content-box;
+background-color: transparent;
+  }
+  .btn{
+    margin-top: 60px;
+    width: 280px;
+    border-radius: 10em;
+background-color: #00c851 !important;
+color: #fff !important;
+border: 0;
+  }
